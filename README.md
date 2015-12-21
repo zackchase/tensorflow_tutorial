@@ -1,19 +1,19 @@
 # tensorflow_tutorial
 A simple set of experiments to get going with tensor flow.
 
-# Logistic Regression
+## Logistic Regression
 Working on it now
 
-# Multilayer Perceptron
+## Multilayer Perceptron
 Coming soon
 
-# Convolutional Neural Network
+## Convolutional Neural Network
 Coming a little later
 
-# Generative Recurrent Neural Network
+## Generative Recurrent Neural Network
 Hopefully within a week
 
-# Generative Concatenative Network
+## Generative Concatenative Network
 Hopefully within two weeks
 
 
